@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1139707543
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bdacade3f9f37cf50de8bdbeee7b55cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 689be02fd51023ca4ed2fc8972c0beb5
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 200
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/YooAsset/1.4.13/Space Shooter/GameArt/ShaderVariants/MyShaderVariants.shadervariants
+Dependencies: []
